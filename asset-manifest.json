@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nikhiltech/static/css/main.8f15f9e6.chunk.css",
+    "main.js": "/nikhiltech/static/js/main.146391ce.chunk.js",
+    "main.js.map": "/nikhiltech/static/js/main.146391ce.chunk.js.map",
+    "runtime-main.js": "/nikhiltech/static/js/runtime-main.ec333765.js",
+    "runtime-main.js.map": "/nikhiltech/static/js/runtime-main.ec333765.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/nikhiltech/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.16d490a8.chunk.js": "/nikhiltech/static/js/2.16d490a8.chunk.js",
+    "static/js/2.16d490a8.chunk.js.map": "/nikhiltech/static/js/2.16d490a8.chunk.js.map",
+    "index.html": "/nikhiltech/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/nikhiltech/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.8f15f9e6.chunk.css.map": "/nikhiltech/static/css/main.8f15f9e6.chunk.css.map",
+    "static/js/2.16d490a8.chunk.js.LICENSE.txt": "/nikhiltech/static/js/2.16d490a8.chunk.js.LICENSE.txt",
+    "static/media/image1.89573dc8.png": "/nikhiltech/static/media/image1.89573dc8.png",
+    "static/media/image2.1da2a8c5.png": "/nikhiltech/static/media/image2.1da2a8c5.png",
+    "static/media/image3.aa223103.jpg": "/nikhiltech/static/media/image3.aa223103.jpg",
+    "static/media/image4.222ddeea.png": "/nikhiltech/static/media/image4.222ddeea.png",
+    "static/media/logo.47475c4a.JPG": "/nikhiltech/static/media/logo.47475c4a.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec333765.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.16d490a8.chunk.js",
+    "static/css/main.8f15f9e6.chunk.css",
+    "static/js/main.146391ce.chunk.js"
+  ]
+}
